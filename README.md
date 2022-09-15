@@ -1,3 +1,9 @@
+
+# my live solution
+
+https://fbw-22-e04.github.io/browser-dom-window-Ajanitone/
+
+
 # The Guessing Game
 ## Create a guessing game for players. 
 
